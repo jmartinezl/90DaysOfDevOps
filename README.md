@@ -27,12 +27,12 @@ This will not cover all things DevOps but it will cover the areas that I feel wi
 ### Learning a Programming Language
 
 - [✔️] ⌨️ 7 > [The Big Picture: DevOps & Learning a Programming Language](Days/day07.md)
-- [☐] ⌨️ 8 > [Setting up your DevOps environment for Go & Hello World](Days/day08.md)
-- [☐] ⌨️ 9 > [Let's explain the Hello World code](Days/day09.md)
-- [☐] ⌨️ 10 > [The Go Workspace & Compiling & running code](Days/day10.md)
-- [☐] ⌨️ 11 > [Variables, Constants & Data Types](Days/day11.md)
-- [☐] ⌨️ 12 > [Getting user input with Pointers and a finished program](Days/day12.md)
-- [☐] ⌨️ 13 > [Tweet your progress with our new App](Days/day13.md)
+- [✔️] ⌨️ 8 > [Setting up your DevOps environment for Go & Hello World](Days/day08.md)
+- [✔️] ⌨️ 9 > [Let's explain the Hello World code](Days/day09.md)
+- [✔️] ⌨️ 10 > [The Go Workspace & Compiling & running code](Days/day10.md)
+- [✔️] ⌨️ 11 > [Variables, Constants & Data Types](Days/day11.md)
+- [✔️] ⌨️ 12 > [Getting user input with Pointers and a finished program](Days/day12.md)
+- [✔️] ⌨️ 13 > [Tweet your progress with our new App](Days/day13.md)
 
 ### Knowing Linux Basics
 

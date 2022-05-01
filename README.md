@@ -56,53 +56,53 @@ This will not cover all things DevOps but it will cover the areas that I feel wi
 
 ### Stick to one Cloud Provider
 
-- [☐] ☁️ 28 > [The Big Picture: DevOps & The Cloud](Days/day28.md)
-- [☐] ☁️ 29 > [Microsoft Azure Fundamentals](Days/day29.md)
-- [☐] ☁️ 30 > [Microsoft Azure Security Models](Days/day30.md)
-- [☐] ☁️ 31 > [Microsoft Azure Compute Models](Days/day31.md)
-- [☐] ☁️ 32 > [Microsoft Azure Storage & Database Models](Days/day32.md)
-- [☐] ☁️ 33 > [Microsoft Azure Networking Models + Azure Management](Days/day33.md)
-- [☐] ☁️ 34 > [Microsoft Azure Hands-On Scenarios](Days/day34.md)
+- [✔️] ☁️ 28 > [The Big Picture: DevOps & The Cloud](Days/day28.md)
+- [✔️] ☁️ 29 > [Microsoft Azure Fundamentals](Days/day29.md)
+- [✔️] ☁️ 30 > [Microsoft Azure Security Models](Days/day30.md)
+- [✔️] ☁️ 31 > [Microsoft Azure Compute Models](Days/day31.md)
+- [✔️] ☁️ 32 > [Microsoft Azure Storage & Database Models](Days/day32.md)
+- [✔️] ☁️ 33 > [Microsoft Azure Networking Models + Azure Management](Days/day33.md)
+- [✔️] ☁️ 34 > [Microsoft Azure Hands-On Scenarios](Days/day34.md)
 
 ### Use Git Effectively
 
-- [☐] 📚 35 > [The Big Picture: Git - Version Control](Days/day35.md)
-- [☐] 📚 36 > [Installing & Configuring Git](Days/day36.md)
-- [☐] 📚 37 > [Gitting to know Git](Days/day37.md)
-- [☐] 📚 38 > [Staging & Changing](Days/day38.md)
-- [☐] 📚 39 > [Viewing, unstaging, discarding & restoring](Days/day39.md)
-- [☐] 📚 40 > [Social Network for code](Days/day40.md)
-- [☐] 📚 41 > [The Open Source Workflow](Days/day41.md)
+- [✔️] 📚 35 > [The Big Picture: Git - Version Control](Days/day35.md)
+- [✔️] 📚 36 > [Installing & Configuring Git](Days/day36.md)
+- [✔️] 📚 37 > [Gitting to know Git](Days/day37.md)
+- [✔️] 📚 38 > [Staging & Changing](Days/day38.md)
+- [✔️] 📚 39 > [Viewing, unstaging, discarding & restoring](Days/day39.md)
+- [✔️] 📚 40 > [Social Network for code](Days/day40.md)
+- [✔️] 📚 41 > [The Open Source Workflow](Days/day41.md)
 
 ### Containers 
 
-- [☐] 🏗️ 42 > [The Big Picture: Containers](Days/day42.md)
-- [☐] 🏗️ 43 > [What is Docker & Getting installed](Days/day43.md)
-- [☐] 🏗️ 44 > [Docker Images & Hands-On with Docker Desktop](Days/day44.md)
-- [☐] 🏗️ 45 > [The anatomy of a Docker Image](Days/day45.md)
-- [☐] 🏗️ 46 > [Docker Compose](Days/day46.md)
-- [☐] 🏗️ 47 > [Docker Networking & Security](Days/day47.md)
-- [☐] 🏗️ 48 > [Alternatives to Docker](Days/day48.md)
+- [✔️] 🏗️ 42 > [The Big Picture: Containers](Days/day42.md)
+- [✔️] 🏗️ 43 > [What is Docker & Getting installed](Days/day43.md)
+- [✔️] 🏗️ 44 > [Docker Images & Hands-On with Docker Desktop](Days/day44.md)
+- [✔️] 🏗️ 45 > [The anatomy of a Docker Image](Days/day45.md)
+- [✔️] 🏗️ 46 > [Docker Compose](Days/day46.md)
+- [✔️] 🏗️ 47 > [Docker Networking & Security](Days/day47.md)
+- [✔️] 🏗️ 48 > [Alternatives to Docker](Days/day48.md)
 
 ### Kubernetes
 
-- [☐] ☸ 49 > [The Big Picture: Kubernetes](Days/day49.md)
-- [☐] ☸ 50 > [Choosing your Kubernetes platform ](Days/day50.md)
-- [☐] ☸ 51 > [Deploying your first Kubernetes Cluster](Days/day51.md)
-- [☐] ☸ 52 > [Setting up a multinode Kubernetes Cluster](Days/day52.md)
-- [☐] ☸ 53 > [Rancher Overview - Hands On](Days/day53.md)
-- [☐] ☸ 54 > [Kubernetes Application Deployment](Days/day54.md)
-- [☐] ☸ 55 > [State and Ingress in Kubernetes](Days/day55.md)
+- [✔️] ☸ 49 > [The Big Picture: Kubernetes](Days/day49.md)
+- [✔️] ☸ 50 > [Choosing your Kubernetes platform ](Days/day50.md)
+- [✔️] ☸ 51 > [Deploying your first Kubernetes Cluster](Days/day51.md)
+- [✔️] ☸ 52 > [Setting up a multinode Kubernetes Cluster](Days/day52.md)
+- [✔️] ☸ 53 > [Rancher Overview - Hands On](Days/day53.md)
+- [✔️] ☸ 54 > [Kubernetes Application Deployment](Days/day54.md)
+- [✔️] ☸ 55 > [State and Ingress in Kubernetes](Days/day55.md)
 
 ### Learn Infrastructure as Code
 
-- [☐] 🤖 56 > [The Big Picture: IaC](Days/day56.md)
-- [☐] 🤖 57 > [An intro to Terraform ](Days/day57.md)
-- [☐] 🤖 58 > [HashiCorp Configuration Language (HCL)](Days/day58.md)
-- [☐] 🤖 59 > [Create a VM with Terraform & Variables](Days/day59.md)
-- [☐] 🤖 60 > [Docker Containers, Provisioners & Modules](Days/day60.md)
-- [☐] 🤖 61 > [Kubernetes & Multiple Environments](Days/day61.md)
-- [☐] 🤖 62 > [Testing, Tools & Alternatives](Days/day62.md)
+- [✔️] 🤖 56 > [The Big Picture: IaC](Days/day56.md)
+- [✔️] 🤖 57 > [An intro to Terraform ](Days/day57.md)
+- [✔️] 🤖 58 > [HashiCorp Configuration Language (HCL)](Days/day58.md)
+- [✔️] 🤖 59 > [Create a VM with Terraform & Variables](Days/day59.md)
+- [✔️] 🤖 60 > [Docker Containers, Provisioners & Modules](Days/day60.md)
+- [✔️] 🤖 61 > [Kubernetes & Multiple Environments](Days/day61.md)
+- [✔️] 🤖 62 > [Testing, Tools & Alternatives](Days/day62.md)
 
 ### Automate Configuration Management
 
